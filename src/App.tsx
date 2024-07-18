@@ -1,7 +1,5 @@
 function App() {
-  return (
-    <>Hello World!</>
-  )
+  return <>Hello Dataway!</>;
 }
 
-export default App
+export default App;
